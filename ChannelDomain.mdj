@@ -9,7 +9,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Channels Service Model",
+			"name": "ChannelsDomain",
 			"ownedElements": [
 				{
 					"_type": "UMLClassDiagram",
@@ -113,7 +113,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Channels Service Model)",
+											"text": "(from ChannelsDomain)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -548,7 +548,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Channels Service Model)",
+											"text": "(from ChannelsDomain)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1043,7 +1043,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Channels Service Model)",
+											"text": "(from ChannelsDomain)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1653,7 +1653,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Channels Service Model)",
+											"text": "(from ChannelsDomain)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2362,7 +2362,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Channels Service Model)",
+											"text": "(from ChannelsDomain)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2942,7 +2942,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Channels Service Model)",
+											"text": "(from ChannelsDomain)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -3651,7 +3651,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Channels Service Model)",
+											"text": "(from ChannelsDomain)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -4023,11 +4023,11 @@
 									"containerExtending": false,
 									"left": 292.14990234375,
 									"top": 109,
-									"width": 141.9052734375,
+									"width": 100.7216796875,
 									"height": 13,
 									"autoResize": false,
 									"underline": false,
-									"text": "Channels Service Model",
+									"text": "ChannelsDomain",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5,
 									"wordWrap": false
