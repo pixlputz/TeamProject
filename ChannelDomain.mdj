@@ -4024,7 +4024,7 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 188.14990234375,
-									"top": 109,
+									"top": 101,
 									"width": 100.7216796875,
 									"height": 13,
 									"autoResize": false,
@@ -4050,7 +4050,7 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 133,
-									"top": 109,
+									"top": 101,
 									"width": 50.14990234375,
 									"height": 13,
 									"autoResize": false,
@@ -4071,7 +4071,7 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"left": 128,
-							"top": 104,
+							"top": 96,
 							"width": 1161,
 							"height": 801,
 							"autoResize": false,
@@ -7038,9 +7038,9 @@
 							"left": 240,
 							"top": 248,
 							"width": 137,
-							"height": 38,
+							"height": 49,
 							"autoResize": false,
-							"text": "Data Layer",
+							"text": "Data Layer\nEntities",
 							"wordWrap": true
 						},
 						{
@@ -7061,9 +7061,9 @@
 							"left": 616,
 							"top": 192,
 							"width": 137,
-							"height": 38,
+							"height": 49,
 							"autoResize": false,
-							"text": "Business Layer",
+							"text": "Business Layer\nUse Cases",
 							"wordWrap": true
 						},
 						{
@@ -7105,9 +7105,9 @@
 							"left": 1008,
 							"top": 144,
 							"width": 137,
-							"height": 38,
+							"height": 49,
 							"autoResize": false,
-							"text": "Application Layer",
+							"text": "Application Layer\nControllers",
 							"wordWrap": true
 						},
 						{
